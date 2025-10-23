@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Gambar placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g fill="rgba(255,255,255,0.9)">
+    <rect x="60" y="100" width="260" height="180" rx="16"/>
+    <rect x="360" y="120" width="180" height="140" rx="12"/>
+    <rect x="560" y="90" width="180" height="180" rx="12"/>
+    <rect x="120" y="320" width="560" height="60" rx="10"/>
+  </g>
+  <text x="50%" y="50%" text-anchor="middle" fill="#0b0f14" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">SDN KIDULDALEM I BANGIL</text>
+  <text x="50%" y="58%" text-anchor="middle" fill="#0b0f14" font-family="Segoe UI, Arial, sans-serif" font-size="18">Placeholder Ilustrasi</text>
+  <rect x="0.5" y="0.5" width="799" height="499" fill="none" stroke="rgba(0,0,0,.12)"/>
+</svg>
